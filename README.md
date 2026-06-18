@@ -1,7 +1,5 @@
 # Dra-MariaM.OG-Portfalio-Md.Interna-Geriatria
 Dra. María Mercedes Ojeda Guerrero - Medicina Interna-Geriatría
-
-<!DOCTYPE html>
 <!-- saved from url=(0084)file:///C:/Users/User/Downloads/Dra.%20Maria%20Mercedes%20Ojeda%20Guerrero%20cx.html -->
 <html lang="es"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   
